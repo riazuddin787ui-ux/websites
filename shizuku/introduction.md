@@ -1,3 +1,4 @@
+Infinix X6873 - Infinix/X6873-IN/Infinix-X6873:16/BP2A.250605.031.A3/201450009:user/release-keys
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
